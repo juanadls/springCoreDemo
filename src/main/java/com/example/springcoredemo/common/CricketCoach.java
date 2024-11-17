@@ -1,4 +1,4 @@
-package com.example.springcoredemo;
+package com.example.springcoredemo.common;
 
 public class CricketCoach implements Couch{
     @Override
